@@ -193,7 +193,7 @@ color: #FFFFFF;
 
 @media only screen and (max-width: 600px) {
     .main-page {
-        height: 650px;
+        height: 520px;
     }
     .heading {
         padding: 9px;
